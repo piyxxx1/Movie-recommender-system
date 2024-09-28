@@ -49,7 +49,7 @@ The project integrates with the TMDb API to fetch additional movie details. You 
 
 ## Screenshots
 
-![UI Screenshot](screenshot.png)
+![UI Screenshot](view.png)
 
 ## Future Enhancements
 
