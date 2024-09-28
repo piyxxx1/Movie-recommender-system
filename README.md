@@ -13,7 +13,7 @@ This project is a Natural Language Processing (NLP) based Movie Recommendation S
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/movie-recommendation-system.git
+    git clone https://github.com/piyxxx1/movie-recommendation-system.git
     cd movie-recommendation-system
     ```
 
