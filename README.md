@@ -17,11 +17,6 @@ This project is a Natural Language Processing (NLP) based Movie Recommendation S
     cd movie-recommendation-system
     ```
 
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 3. Run the application:
     ```bash
     streamlit run app.py
